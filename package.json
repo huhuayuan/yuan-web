@@ -1,0 +1,19 @@
+{
+  "name": "yuan-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuan/yuan-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuan/yuan-web/issues"
+  },
+  "homepage": "https://github.com/yuan/yuan-web#readme"
+}
